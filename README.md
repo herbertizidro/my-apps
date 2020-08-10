@@ -1,1 +1,1 @@
-Rastreio de encomendas nos Correios(site + extensão chrome/edge): https://www.minhaencomenda.me/
+Rastreio de encomendas dos Correios(site + extensão chrome/edge): https://www.minhaencomenda.me/
