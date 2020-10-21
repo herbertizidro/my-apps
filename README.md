@@ -1,4 +1,3 @@
-Tecnologias utilizadas: Flask, React JS(Context API) e Bootstrap 4.
 
 <a href="https://www.minhaencomenda.me/">Rastreio de encomendas dos Correios/Jadlog.</a>
 
