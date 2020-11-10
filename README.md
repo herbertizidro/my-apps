@@ -1,8 +1,15 @@
 
-<a href="https://www.minhaencomenda.me/">Site de rastreamento de encomendas dos Correios.</a>
 
-<a href="https://chrome.google.com/webstore/detail/magnet-finder/gmmdnbmmjmoddokgggkbfehpbfepaman/related?hl=pt-BR&authuser=0">Extensão para encontrar links magnéticos(chrome/edge/opera).</a>
+## Sites
+---
+#### [www.minhaencomenda.me](https://www.minhaencomenda.me/): Site para rastrear encomendas dos Correios.
 
-<a href="https://www.minhaencomenda.me/extensao-minha-encomenda">Extensão para rastrear encomendas dos Correios(chrome/edge/opera).</a>
+## Extensões
+---
+#### [Magnet Finder](https://chrome.google.com/webstore/detail/magnet-finder/gmmdnbmmjmoddokgggkbfehpbfepaman/related?hl=pt-BR&authuser=0): Extensão para encontrar links magnéticos(chrome/edge/opera).
 
-<a href="https://info-movie.netlify.app/">Site para pesquisar informações sobre filmes e séries(exercício).</a>
+#### [Minha Encomenda](https://www.minhaencomenda.me/extensao-minha-encomenda): Extensão para rastrear encomendas dos Correios(chrome/edge/opera).
+
+## Exercícios
+---
+#### [Info Movie](https://info-movie.netlify.app/): Site para pesquisar informações sobre filmes e séries.
