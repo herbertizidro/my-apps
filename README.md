@@ -1,7 +1,7 @@
 
 
 ## Sites
-#### [www.minhaencomenda.me](https://www.minhaencomenda.me/): Site para rastrear encomendas dos Correios.
+#### [www.minhaencomenda.me](https://www.minhaencomenda.me/): Site para rastrear encomendas dos Correios e da Jadlog.
 
 ## Extensões
 #### [Magnet Finder](https://chrome.google.com/webstore/detail/magnet-finder/gmmdnbmmjmoddokgggkbfehpbfepaman/related?hl=pt-BR&authuser=0): Extensão para encontrar links magnéticos(chrome/edge/opera).
