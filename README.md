@@ -3,7 +3,7 @@
 ## Sites
 #### [www.minhaencomenda.me](https://www.minhaencomenda.me/): Site para rastrear encomendas dos Correios e da Jadlog.
 
-#### [Site Portfólio](https://herbertsouza.netlify.app/): Site Portfólio.
+#### [Site Portfólio](https://herbertsouza.netlify.app/): Portfólio web e detalhes sobre formação, experiência e habilidades na área da programação.
 
 ## Extensões
 #### [Magnet Finder](https://chrome.google.com/webstore/detail/magnet-finder/gmmdnbmmjmoddokgggkbfehpbfepaman/related?hl=pt-BR&authuser=0): Extensão para encontrar links magnéticos(chrome/edge/opera).
