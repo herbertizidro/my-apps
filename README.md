@@ -11,5 +11,6 @@
 #### [Minha Encomenda](https://www.minhaencomenda.me/extensao-minha-encomenda): Extensão para rastrear encomendas dos Correios(chrome/edge/opera).
 
 ## Exercícios
-#### [Art Magazine](https://herbertizidro.github.io/art-magazine/): Site fictício com layout voltado para exibição de fotografias.
+#### [Art Magazine](https://herbertizidro.github.io/art-magazine/): Site de revista fictícia, com seções de ensaios fotográficos, entrevistas e etc.
+#### [Art Magazine](https://herbertizidro.github.io/flex-box-estudo/): Exercício prático com Flexbox CSS. Site One Page para exibição de um produto fictício.
 #### [Info Movie](https://info-movie.netlify.app/): Site para pesquisar informações sobre filmes e séries.
