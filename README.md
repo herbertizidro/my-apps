@@ -13,4 +13,5 @@
 ## Exercícios
 #### [Art Magazine](https://herbertizidro.github.io/art-magazine/): Site de revista fictícia, com seções de ensaios fotográficos, entrevistas e etc. - HTML/CSS/jQuery
 #### [Lorem Ipsum](https://herbertizidro.github.io/flex-box-estudo/): Exercício prático com Flexbox CSS. Site One Page para exibição de um produto fictício - HTML/CSS
-#### Movie Info: App React JS criado para praticar Context Api. - React JS (inacabado)
+#### [Movie Info](movieinfo-app.netlify.app/): App feito com React JS para praticar Context Api, Hooks e React Router. Exibe informações do IMDb. - React JS (em progresso)
+
