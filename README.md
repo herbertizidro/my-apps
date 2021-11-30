@@ -3,7 +3,7 @@
 ## Sites
 #### [Portfólio](https://herbertsouza.netlify.app): Site com meu portfólio web e informações sobre experiência e formação - React JS - Acessibilidade: site compatível com leitores de tela como o [Screen Reader](https://chrome.google.com/webstore/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn?hl=pt-BR).
 #### [Minha Encomenda](https://www.minhaencomenda.me/): Site/api para rastrear encomendas dos Correios e da Jadlog - Flask
-#### [Gera-Link](https://www.gera-link.com): Gerador e encurtador de links - Flask
+#### [Gera-Link](https://www.gera-link.com): Gerador e encurtador de links, gerador de QR Code - Flask
 
 ## Extensões
 #### [Magnet Finder](https://chrome.google.com/webstore/detail/magnet-finder/gmmdnbmmjmoddokgggkbfehpbfepaman/related?hl=pt-BR&authuser=0): Extensão para encontrar links magnéticos(chrome/edge/opera) - HTML/CSS/JS
