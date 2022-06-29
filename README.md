@@ -15,6 +15,6 @@
 #### [Art Magazine](https://herbertizidro.github.io/art-magazine/): Site de revista fictícia, com seções de ensaios fotográficos, entrevistas e etc. - HTML/CSS/jQuery
 #### [Lorem Ipsum](https://herbertizidro.github.io/flex-box-estudo/): Exercício prático com Flexbox CSS. Site One Page para exibição de um produto fictício - HTML/CSS
 #### [Movie Info](https://movieinfo-app.netlify.app/): App feito com React JS para praticar Context Api, Hooks e React Router e API feita com Next JS. Exibe informações do OMDb. - React JS/Next JS
-#### [PokeNext](https://github.com/herbertizidro/pokenext-app): App feito para praticar Next JS. Exibe dados de pokemons. - Next JS
+#### [Rick and Morty Challenge](https://github.com/herbertizidro/rick-and-morty-next-app): App que exibe os personagens do desenho Rick and Morty. Permite buscar por um personagem e ver suas informações - Next JS
 
 
