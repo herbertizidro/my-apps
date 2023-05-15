@@ -1,7 +1,7 @@
 
 
 ## Sites
-#### [Portfólio](https://herbertsouza.netlify.app): Site com meu portfólio web e informações sobre experiência e formação - React JS - Acessibilidade: site compatível com leitores de tela como o [Screen Reader](https://chrome.google.com/webstore/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn?hl=pt-BR).
+#### [Portfólio](https://herbertsouza.netlify.app): Site com meu portfólio web e informações sobre experiência e formação - React JS
 #### [Minha Encomenda](https://www.minhaencomenda.me/): Site/api para rastrear encomendas dos Correios e da Jadlog - Flask
 #### [Integração Minha Encomenda](https://minha-encomenda-ecommerce.netlify.app/): Área de cadastro e login das lojas virtuais, onde o usuário pode editar as informações da página de rastreio customizada. Feito com React JS no Front-End e Flask no Back-End (API + CRUD com SQLAlchemy).
 #### [Gera-Link](https://www.gera-link.com): Gerador e encurtador de links, gerador de QR Code - Flask (fora do ar)
