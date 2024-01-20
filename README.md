@@ -18,3 +18,7 @@
 #### [Rick and Morty Challenge](https://github.com/herbertizidro/rick-and-morty-next-app): App que exibe os personagens do desenho Rick and Morty. Permite buscar por um personagem e ver suas informações - Next JS
 
 
+
+#### Obs: todos os repositórios mencionados aqui não estão sendo atualizados.
+
+
